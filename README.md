@@ -4,6 +4,9 @@
 
 This project provides an implementation of a domain-specific autoencoder designed for the Neuralink Compression Challenge.
 
+The code I wrote is in the files: encoder.cpp, decoder.cpp, include/autoencoder.h, and include/serialize.h.
+The rest of the files are third-party libs.
+
 ## Setup and Build
 
 To set up and build the project, run the following command:
