@@ -13,6 +13,8 @@ The models I trained (in PyTorch) are in the `models/` directory.
 
 The rest of the code are third-party libraries.
 
+The data can be downloaded from `https://content.neuralink.com/compression-challenge/README.html`
+
 ## Setup and Build
 
 To set up and build the project, run the following command:
