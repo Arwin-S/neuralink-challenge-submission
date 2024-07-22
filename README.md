@@ -9,11 +9,12 @@ The code I wrote is in the files:
 - `decode.cpp`
 - `include/autoencoder.h`
 - `include/serialize.h`
+
 The models I trained (in PyTorch) are in the `models/` directory.
 
 The rest of the code are third-party libraries.
 
-The data can be downloaded from `https://content.neuralink.com/compression-challenge/README.html`
+The public dataset can be downloaded from `https://content.neuralink.com/compression-challenge/README.html`
 
 ## Setup and Build
 
