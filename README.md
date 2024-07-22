@@ -4,8 +4,14 @@
 
 This project provides an implementation of a domain-specific autoencoder designed for the Neuralink Compression Challenge.
 
-The code I wrote is in the files: encoder.cpp, decoder.cpp, include/autoencoder.h, and include/serialize.h. The models I trained (in PyTorch) are in the models/ directory.
-The rest of the files are third-party libs.
+The code I wrote is in the files:
+- `encode.cpp`
+- `decode.cpp`
+- `include/autoencoder.h`
+- `include/serialize.h`
+The models I trained (in PyTorch) are in the `models/` directory.
+
+The rest of the code are third-party libraries.
 
 ## Setup and Build
 
