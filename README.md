@@ -47,3 +47,4 @@ These executables are built to run with `eval.sh` and have the following argumen
 ```bash
 ./decode <.brainwire file path> <.wav file path>
 ```
+Tested in WSL Ubuntu environment.
